@@ -11,7 +11,7 @@ $(function(){
     "padding: 0!important;"+
     "}  #nested-collapseJointoFreeCodeCamp{"+
     "margin-bottom: 0;"+
-    "}</style>";
+    "}footer{display: none}</style>";
     // console.log(style);
     $("html").append(style);
 })
