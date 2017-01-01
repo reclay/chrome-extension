@@ -8,3 +8,10 @@
 ### 改变之后：
 ![改变之后](after.PNG)
 
+## bdwm
+
+bdwm进站图隐藏
+
+## 现在使用bookmarklet替代
+
+[https://github.com/reclay/bookmarklet](https://github.com/reclay/bookmarklet)
