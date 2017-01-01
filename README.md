@@ -1,5 +1,9 @@
 # chrome-extension
 
+## 现在使用bookmarklet替代
+
+[https://github.com/reclay/bookmarklet](https://github.com/reclay/bookmarklet)
+
 ## FreeCodeCamp
 
 [https://freecodecamp.cn/map](https://freecodecamp.cn/map)此页面字体太大不方便整体浏览查看，
@@ -11,7 +15,3 @@
 ## bdwm
 
 bdwm进站图隐藏
-
-## 现在使用bookmarklet替代
-
-[https://github.com/reclay/bookmarklet](https://github.com/reclay/bookmarklet)
